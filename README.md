@@ -1,4 +1,4 @@
-# SpringBoot-Rest-Dummy-App
+# SpringBoot-Demo-Rest-App
 
 It is a simple app that show basic example of Rest Api using Spring. The ui is created using swagger library. For the sake of simplicity it show only basic CRUD operations. It uses postresql for the database.
 
